@@ -1,0 +1,6 @@
+Driving Gaussian plus is a 3D reconstruction and editing method for Surrounding Dynamic Driving Scenes based on 3D Gaussian.
+With panoramic videos and sensor priors as input,  it performs high-quality 3D Gaussian reconstruction of static backgrounds and dynamic foreground objects, and supports effective multiple edits to the reconstructed scene.
+Reconstruction and Editable Simulation for Surrounding Dynamic Driving Scenes
+Firstly, Driving Gaussianplus reconstructs the driving scene using 3D Gaussian based on the input images and lidar points. 
+After the reconstruction, Driving GaussianPlus can perform multi-task editing on the 3D scene according to user needs, including texture insertion, weather transformation, and object manipulation.
+We develop a 3D Gaussian  foreground bank for driving scenarios, which supports fast and consistent object manipulation into 3D scenes.
